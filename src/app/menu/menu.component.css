@@ -1,0 +1,8 @@
+.header {
+  width: 100%;
+  z-index: 1;
+}
+
+.headerStyle {
+  color: rgb(169, 245, 239);
+}
